@@ -45,7 +45,7 @@ a {
   --font-size-medium: 1.6rem;
   --font-size-large: 1.8rem;
   --font-size-x-large: 2.3rem;
-  --font-size-xx-large: to 4.8rem;
+  --font-size-xx-large: 4.8rem;
 }
 
 /* Create declaration for all 6 levels section headings (h1,h2,h3,h4,h5,h6) */
