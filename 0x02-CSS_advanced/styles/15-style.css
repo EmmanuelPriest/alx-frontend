@@ -1,6 +1,6 @@
 /* Universal box sizing rule before the html styling */
-* {
-  box-sizing: content-box;
+*, *::after, *::before {
+  box-sizing: border-box;
 }
 
 /* Enable a fluid scroll behavior for the HTML element */
