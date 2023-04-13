@@ -59,7 +59,7 @@ a {
 /* Set the width and margin of container class */
 .container {
   width: 960px;
-  margin: 0 auto;
+  margin: 0 480px 0 480px;
 }
 /* Target the root element(aka html element) */
 :root {
