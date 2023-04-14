@@ -194,16 +194,16 @@ ul.row {
 /* Create col-1-3 class */
 .col-1-3 {
   width: 33.33%;
-  float: left;
-  padding: 0.5rem;
 }
+/* float: left; */
+/* padding: 0.5rem; */
 
 /* Create col-1-2 class */
 .col-1-2 {
   width: 50%;
-  float: left;
-  padding: 0.5rem;
 }
+/* float: left; */
+/* padding: 0.5rem; */
 
 /* Select all classes that comes with col- */
 [class^="col-"] {
