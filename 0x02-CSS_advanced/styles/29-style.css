@@ -354,7 +354,7 @@ ul.row {
 
 /* Target the before pseudo elements of nav-link that is inside the nav */
 .nav .nav-link::before {
-  content: empty;
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
