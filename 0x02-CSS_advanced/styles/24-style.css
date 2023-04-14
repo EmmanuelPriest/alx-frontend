@@ -256,7 +256,7 @@ ul.row {
 /* Target a that is inside card-services class */
 .card-services a {
   display: block;
-  padding: 20rem;
+  padding: 2rem;
   background-color: var(--color-light-grey);
 }
 
